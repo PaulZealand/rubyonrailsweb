@@ -1,7 +1,11 @@
-# README
+# Site-Storage for a Few Users
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello! My name is Paul and i am newby developer on my way to perfection!
+
+This is my Ruby on Rails Web-Storage Site.
+_____________________________________________________________________________
+
+
 
 Things you may want to cover:
 
